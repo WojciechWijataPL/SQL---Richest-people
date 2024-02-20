@@ -1,0 +1,96 @@
+/* thanks to this we can see what are the countries in 2021 and 2023 with the most richest people*/
+select country, count(country)
+from 2023bil
+group by 1
+order by 2 desc
+limit 5;
+
+select country, count(country)
+from `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+group by 1
+order by 2 desc
+limit 5;
+
+
+
+/* the most popular industires an cash bilions in each industry */
+
+select Industry, sum(`Total_Net_ Worth_B`) as Cash_in_each_industry_B, Count(Industry) as Person_in_Inustry
+from `_500_richest_people_2021_csv__202402011156.csv` rpcc
+group by 1
+order by 2 desc;
+
+
+
+/*Companies that give wealth to more than one person*/ 
+
+SELECT `Best known company`, COUNT(`Best known company`) AS CompanyCount
+FROM company c
+GROUP BY `Best known company`
+HAVING CompanyCount > 2
+order by 2 desc;
+
+
+
+/* there i am counting how old are they*/
+
+select  rpcc.`Rank` , rpcc.Name , rpcc.Industry, dob.`Date of birth`,
+YEAR(CURDATE()) - YEAR(`date of birth`) AS wiek
+from `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+inner join date_of_birth dob 
+on
+rpcc.name = dob.name;
+
+
+
+
+
+/* divide people into age categories */
+select b.`Rank`, b.Name, b.Total_Net_Worth_B  as money2023, rpcc.`Rank` , rpcc. name,rpcc.`Total_Net_ Worth_B`  as money2021,
+(b.Total_Net_Worth_B  - rpcc.`Total_Net_ Worth_B`  ) as Difference
+from `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+left join `2023bil` b 
+on 
+rpcc.rank = b.rank
+;
+
+
+
+
+
+   /* I divide people to different category */
+SELECT 
+    rpcc.Name,
+    YEAR(CURDATE()) - YEAR(dob.`Date of birth`) AS Years,
+    CASE
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 1 AND 37 THEN 'young'
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 38 AND 60 THEN 'mature'
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 61 AND 115 THEN 'old'
+    END AS Category
+FROM 
+    `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+INNER JOIN 
+    date_of_birth dob ON rpcc.name = dob.name;
+  
+   
+   /* I count how many are in each category */
+   SELECT 
+    CASE
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 1 AND 37 THEN 'young'
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 38 AND 60 THEN 'mature'
+        WHEN YEAR(CURDATE()) - YEAR(dob.`Date of birth`) BETWEEN 61 AND 115 THEN 'old'
+    END AS Category,
+    COUNT(*) AS CountInCategory
+FROM 
+    `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+INNER JOIN 
+    date_of_birth dob ON rpcc.name = dob.name
+GROUP BY 
+    Category;
+   
+   
+    /* show person with total net worth above avg */
+select *
+FROM `_500_richest_people_2021_csv__202402011156.csv` rpcc 
+where `Total_Net_ Worth_B` > (select avg(`Total_Net_ Worth_B`) from `_500_richest_people_2021_csv__202402011156.csv` rpcc2 )
+
