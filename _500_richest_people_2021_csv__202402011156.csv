@@ -1,0 +1,475 @@
+Rank;Name;Total_Net_ Worth_B;Country;Industry
+1;Jeff Bezos;188;United States;Technology
+2;Elon Musk;170;United States;Technology
+3;Bernard Arnault;155;France;Consumer
+4;Bill Gates;144;United States;Technology
+5;Mark Zuckerberg;114;United States;Technology
+6;Warren Buffett;108;United States;Diversified
+7;Larry Page;104;United States;Technology
+8;Sergey Brin;101;United States;Technology
+9;Larry Ellison;91;United States;Technology
+10;Steve Ballmer;89;United States;Technology
+11;Francoise Bettencourt Meyers;84;France;Consumer
+12;Amancio Ortega;79;Spain ;Retail
+13;Mukesh Ambani;74;India;Energy
+14;Charles Koch;64;United States;Industrial
+15;Julia Flesher Koch ;64;United States;Industrial
+16;Zhong Shanshan;64;China;Diversified
+17;Gautam Adani;63;India;Industrial
+18;Jim Walton;62;United States;Retail
+19;Rob Walton;62;United States;Retail
+20;Alice Walton;60;United States;Retail
+21;Ma Huateng;58;China;Technology
+22;MacKenzie Scott;57;United States;Technology
+23;Carlos Slim;57;Mexico;Diversified
+24;Francois Pinault;54;France;Consumer
+25;Phil Knight ;53;United States;Consumer
+26;Michael Dell;50;United States;Technology
+27;Jack Ma;50;China;Technology
+28;Jacqueline Badger Mars;45;United States;Food & Beverage
+29;John Mars;45;United States;Food & Beverage
+30;Zhang Yiming;45;China;Technology
+31;Colin Huang;44;China;Technology
+32;Alain Wertheimer;44;France;Consumer
+33;Gerard Wertheimer;44;France;Consumer
+34;Tadashi Yanai;41;Japan;Retail
+35;Len Blavatnik;40;United States;Diversified
+36;Giovanni Ferrero ;35;Italy;Food & Beverage
+37;Miriam Adelson;34;United States;Entertainment
+38;Klaus-Michael Kuehne;34;Germany;Industrial
+39;Masayoshi Son;34;Japan;Technology
+40;William Ding;34;China;Technology
+41;Vladimir Potanin;34;Russia;Commodities
+42;Li Ka-shing;33;Hong Kong;Real-Estate
+43;Zeng Yuqun;33;Hong Kong;Industrial
+44;Yang Huiyan;32;China;Real-Estate
+45;Azim Premji;31;India;Technology
+46;He Xiangjian;31;China;Consumer
+47;Gina Rinehart;31;Australia;Commodities
+48;Leonard Lauder;31;United States;Consumer
+49;Dan Gilbert;30;United States;Real-Estate
+50;Qin Yinglin;30;China;Food & Beverage
+51;James Dyson;30;United Kingdom;Consumer
+52;Vladimir Lisin;29;Russia;Industrial
+53;Jim Ratcliffe;29;United Kingdom;Industrial
+54;Alexey Mordashov;29;Russia;Industrial
+55;Leonid Mikhelson;28;Russia;Energy
+56;Takemitsu Takizaki;28;Japan;Technology
+57;Stephen Schwarzman;28;United States;Finance
+58;Pallonji Mistry;27;Ireland;Industrial
+59;Pang Kang;27;China;Food & Beverage
+60;Leonardo Del Vecchio;27;Italy;Consumer
+61;Dieter Schwarz;27;Germany;Retail
+62;Abigail Johnson;27;United States;Finance
+63;Jiang Rensheng;26;China;Health Care
+64;Iris Fontbona ;26;Chile;Commodities
+65;Jorge Paulo Lemann';26;Brazil;Food & Beverage
+66;Susanne Klatten;26;Germany;Industrial
+67;Zhang Zhidong;25;China;Technology
+68;James Simons;25;United States;Finance
+69;Stefan Persson;25;Sweden;Retail
+70;Andrew Forrest;25;Australia;Commodities
+71;Li Xiting;24;Singapore;Health Care
+72;Lei Jun;24;China;Technology
+73;Lee Shau Kee;24;Hong Kong;Real-Estate
+74;Eric Schmidt;24;United States;Technology
+75;Shiv Nadar;23;India;Technology
+76;Henry Cheng;23;Hong Kong;Retail
+77;Ken Griffin;23;United States;Finance
+78;Carl Icahn;23;United States;Diversified
+79;Elaine Marshall;22;United States;Industrial
+80;Laurene Powell Jobs;22;United States;Media & Telecom
+81;John Menard;22;United States;Retail
+82;Goh Cheng Liang;22;Singapore;Industrial
+83;Thomas Peterffy;22;United States;Finance
+84;Stefan Quandt;21;Germany;Industrial
+85;Sara Mota de Larrea ;21;Mexico;Commodities
+86;Alisher Usmanov;21;Russia;Diversified
+87;Lakshmi Mittal;21;India;Retail
+88;Robert Kuok;21;Malaysia;Diversified
+89;Lukas Walton;21;United States;Retail
+90;Ernesto Bertarelli ;20;Switzerland;Diversified
+91;Hui Ka Yan;20;China;Real-Estate
+92;Peter Woo;20;Hong Kong;Real-Estate
+93;Donald Newhouse;20;United States;Media & Telecom
+94;Chen Bang;20;China;Health Care
+95;Xu Hang;20;Hong Kong;Health Care
+96;Vagit Alekperov;20;Russia;Energy
+97;Lui Che-Woo;20;Hong Kong;Entertainment
+98;Roman Abramovich;19;Russia;Diversified
+99;Thomas Frist;19;United States;Health Care
+100;Gennady Timchenko;19;Russia;Diversified
+101;Wang Xing;18;China;Technology
+102;Dietrich Mateschitz;18;Austria;Food & Beverage
+103;Wang Wei;18;China;Services
+104;Dustin Moskovitz;18;United States;Technology
+105;Lee Man Tat;18;Hong Kong;Food & Beverage
+106;Charlene de Carvalho-Heineken;17;Netherlands;Food & Beverage
+107;Andrey Melnichenko;17;Russia;Industrial
+108;Viktor Vekselberg;17;Russia;Industrial
+109;Ray Dalio;17;United States;Finance
+110;Reinhold Wuerth;17;Germany;Industrial
+111;Thomas Struengmann;17;Germany;Health Care
+112;Andreas Struengmann;17;Germany;Health Care
+113;Alwaleed Bin Talal;17;Saudi Arabia;Diversified
+114;Eduardo Saverin;17;Brazil;Technology
+115;Wu Yajun;17;China;Real-Estate
+116;Zhong Huijuan;17;China;Health Care
+117;Sun Piaoyang;17;China;Health Care
+118;Gustaf Douglas ;17;Sweden;Diversified
+119;Aliko Dangote;16;Nigeria;Industrial
+120;Richard Liu;16;China;Technology
+121;Li Shu Fu;16;China;Industrial
+122;Cyrus Poonawalla;16;India;Health Care
+123;Budi Hartono;16;Indonesia;Diversified
+124;Hasso Plattner;16;Germany;Technology
+125;Wang Wenyin;16;China;Commodities
+126;Ernie Garcia;16;United States;Consumer
+127;Ned Johnson III;16;United States;Finance
+128;Charoen Sirivadhanabhakdi;16;Thailand;Food & Beverage
+129;Donald Bren;16;United States;Real-Estate
+130;Ricardo Salinas;16;Mexico;Diversified
+131;Patrick Soon-Shiong;16;United States;Health Care
+132;Philip Anschutz;15;United States;Diversified
+133;Radhakishan Damani;15;India;Retail
+134;Michael Hartono;15;Indonesia;Diversified
+135;Ma Jianrong;15;China;Consumer
+136;Jorge Moll ;15;Brazil;Health Care
+137;Charles Ergen;15;United States;Media & Telecom
+138;Dave Duffield;15;United States;Technology
+139;Eric Yuan;15;United States;Technology
+140;Uday Kotak;15;India;Finance
+141;David Tepper;14;United States;Finance
+142;Karl Albrecht Jr.;14;Germany;Retail
+143;Beate Heister;14;Germany;Retail
+144;Zuo Hui;14;China;Real-Estate
+145;Jim Goodnight;14;United States;Technology
+146;Patrick Drahi;14;France;Media & Telecom
+147;Su Hua;14;China;Technology
+148;Huang Shilin;14;China;Industrial
+149;Scott Farquhar;14;Australia;Technology
+150;Mike Cannon-Brookes;14;Australia;Technology
+151;Mikhail Fridman;14;Russia;Diversified
+152;Robin Li;14;China;Technology
+153;Chen Zhiping;14;China;Consumer
+154;Mikhail Prokhorov;14;Russia;Diversified
+155;Jensen Huang;14;United States;Technology
+156;Fan Hongwei;13;China;Energy
+157;Jim Davis;13;United States;Consumer
+158;Joseph Tsai;13;Canada;Technology
+159;Hugh Grosvenor;13;United Kingdom;Real-Estate
+160;Alejandro Santo Domingo ;13;Colombia;Food & Beverage
+161;Cen Junda;13;China;Health Care
+162;Jan Koum;13;United States;Technology
+163;Wang Jianlin;13;China;Real-Estate
+164;Zhou Qunfei;13;China;Technology
+165;Victor Rashnikov;13;Russia;Industrial
+166;Raymond Kwok;13;Hong Kong;Real-Estate
+167;Forrest Li;13;Singapore;Technology
+168;Sherry Brydson;13;Canada;Media & Telecom
+169;Dang Yanbao;13;China;Energy
+170;Lee Jae-Yong ;13;Korea;Diversified
+171;Paolo Rocca  ;13;Italy;Commodities
+172;Wu Shaoxun;13;China;Food & Beverage
+173;Wang Chuan-Fu;13;China;Consumer
+174;Carl Cook;13;United States;Health Care
+175;Jack Dorsey;13;United States;Technology
+176;Robert Pera;12;United States;Technology
+177;Leng You-Bin;12;China;Consumer
+178;Melker Schorling;12;Sweden;Diversified
+179;Charles Schwab;12;United States;Finance
+180;Brian Chesky;12;United States;Services
+181;Marcel Telles;12;Brazil;Food & Beverage
+182;Thomas Kwok;12;Hong Kong;Real-Estate
+183;Dilip Shanghvi;12;India;Health Care
+184;Pierre Omidyar;12;United States;Technology
+185;Savitri Jindal;12;India;Commodities
+186;Gong Hongjia;12;China;Technology
+187;Brian Armstrong;12;United States;Technology
+188;Liu Yongxing;12;China;Industrial
+189;Patrick Collison;11;Ireland;Technology
+190;John Collison;11;Ireland;Technology
+191;Harry Triguboff;11;Australia;Real-Estate
+192;Gordon Moore;11;United States;Technology
+193;Micky Arison;11;United States;Entertainment
+194;Cheng Yixiao;11;China;Technology
+195;Marijke Mars;11;United States;Food & Beverage
+196;Victoria Mars;11;United States;Food & Beverage
+197;Pamela Mars-Wright;11;United States;Food & Beverage
+198;Valerie Mars;11;United States;Food & Beverage
+199;Eyal Ofer;11;Israel;Services
+200;Stefano Pessina;11;Monaco;Retail
+201;Heinrich Deichmann ;11;Germany;Retail
+202;David Sun;11;United States;Technology
+203;John Tu;11;United States;Technology
+204;Anders Holch Povlsen ;11;Denmark;Retail
+205;Bobby Murphy;11;United States;Technology
+206;Graeme Hart;11;New Zealand;Finance
+207;Leon Black;11;United States;Finance
+208;David Geffen;11;United States;Entertainment
+209;Steve Cohen;11;United States;Finance
+210;Dmitry Rybolovlev;11;Russia;Diversified
+211;Ding Shizhong;11;China;Consumer
+212;Emmanuel Besnier;11;France;Food & Beverage
+213;Liu Yonghao;11;China;Diversified
+214;Wei Jianjun;11;China;Consumer
+215;Reinhold Schmieding;11;United States;Health Care
+216;Carlos Sicupira;11;Brazil;Food & Beverage
+217;Frank Wang;11;China;Technology
+218;Li Shuirong;11;China;Energy
+219;Pham Nhat Vuong;11;Viet Nam;Real-Estate
+220;Michael Kadoorie;11;Hong Kong;Energy
+221;Ding Shijia;11;China;Consumer
+222;Seo Jung-Jin;10;Korea;Health Care
+223;Stan Druckenmiller;10;United States;Finance
+224;Kumar Birla;10;India;Industrial
+225;Kim Jung-Ju;10;Korea;Technology
+226;Georg Schaeffler;10;Germany;Industrial
+227;Rinat Akhmetov;10;Ukraine;Industrial
+228;Blair Parry-Okeden;10;United States;Media & Telecom
+229;Jim Kennedy;10;United States;Media & Telecom
+230;Suleiman Kerimov;10;Russia;Commodities
+231;Brian Kim;10;Korea;Technology
+232;Shu Ping;10;Singapore;Food & Beverage
+233;Evan Spiegel;10;United States;Technology
+234;Michael Platt;10;United Kingdom;Finance
+235;Qi Shi;10;China;Finance
+236;Zhang Yong;10;Singapore;Food & Beverage
+237;Jay Chaudhry;10;United States;Technology
+238;Anthony Pratt;10;Australia;Industrial
+239;Johann Graf;10;Austria;Entertainment
+240;Dietmar Hopp;10;Germany;Technology
+241;Michael Otto;10;Germany;Retail
+242;Antonia Axson Johnson;10;Sweden;Industrial
+243;George Roberts;10;United States;Finance
+244;Nathan Blecharczyk;10;United States;Services
+245;Joe Gebbia;10;United States;Services
+246;Gianluigi Aponte;10;Switzerland;Services
+247;John Fredriksen;10;Cyprus;Industrial
+248;Yao Liangsong;10;China;Retail
+249;Giorgio Armani;10;Italy;Consumer
+250;Sarath Ratanavadi;10;Thailand;Energy
+251;Henry Kravis;10;United States;Finance
+252;Christy Walton;10;United States;Retail
+253;Luis Sarmiento;10;Colombia;Finance
+254;Cai Kui;10;China;Real-Estate
+255;Stan Kroenke;10;United States;Real-Estate
+256;Niels Louis-Hansen;10;Denmark;Health Care
+257;Les Wexner;10;United States;Retail
+258;Sunil Mittal;10;India;Media & Telecom
+259;Tobi Lutke;10;Canada;Technology
+260;Alberto Bailleres;10;Mexico;Commodities
+261;Tito Beveridge;10;United States;Consumer
+262;Anthony Bamford ;10;United Kingdom;Industrial
+263;Tim Sweeney;9;United States;Technology
+264;Zhao Yan;9;China;Health Care
+265;Jorn Rausing;9;Sweden;Services
+266;Zhang Bangxin;9;China;Services
+267;August von Finck;9;Germany;Diversified
+268;Andy Beal;9;United States;Finance
+269;George Lucas;9;United States;Entertainment
+270;German Khan;9;Russia;Diversified
+271;Wee Cho Yaw;9;Singapore;Finance
+272;Denise Coates;9;United Kingdom;Entertainment
+273;Alexander Abramov;9;Russia;Industrial
+274;Qian Dongqi;9;China;Technology
+275;Harold Hamm;9;United States;Energy
+276;Iskandar Makhmudov;9;Russia;Commodities
+277;John Malone;9;United States;Media & Telecom
+278;Hansjoerg Wyss;9;Switzerland;Health Care
+279;Rupert Murdoch;9;United States;Media & Telecom
+280;James Pattison;9;Canada;Media & Telecom
+281;Jude Reyes;9;United States;Consumer
+282;Chris Reyes;9;United States;Consumer
+283;Tatyana Bakalchuk;9;Russia;Technology
+284;Gabe Newell;9;United States;Technology
+285;Andrew Currie;9;United Kingdom;Industrial
+286;Johann Rupert ;9;South Africa;Diversified
+287;Silvio Berlusconi;9;Italy;Media & Telecom
+288;John Reece;9;United Kingdom;Industrial
+289;Cheng Xue;9;China;Food & Beverage
+290;Willi Liebherr;9;Germany;Industrial
+291;Isolde Liebherr;9;Germany;Industrial
+292;John Albert Sobrato;9;United States;Real-Estate
+293;Marc Benioff;9;United States;Technology
+294;Denis Sverdlov;9;Russia;Technology
+295;Li Zhenguo;9;China;Energy
+296;Sandra Ortega Mera;9;Spain;Retail
+297;Hui Wing Mau;9;Hong Kong;Real-Estate
+298;Liu Jincheng;9;China;Industrial
+299;Theo Albrecht Jr.;9;Germany;Retail
+300;Dennis Washington;9;United States;Industrial
+301;Stephen Ross;9;United States;Real-Estate
+302;Lin Bin;9;United States;Technology
+303;Mohammed Al Amoudi;9;Saudi Arabia;Energy
+304;Robert Smith;9;United States;Finance
+305;Rocco Commisso;9;United States;Media & Telecom
+306;Benu Bangur;9;India;Commodities
+307;German Larrea;9;Mexico;Commodities
+308;Anthony von Mandl;9;Canda;Consumer
+309;Shigenobu Nagamori;9;Japan;Industrial
+310;Lu Zhongfang;9;China;Services
+311;Jerry Jones;9;United States;Entertainment
+312;Pei Zhenhua;8;China;Industrial
+313;Sun Hongbin;8;United States;Real-Estate
+314;Ugur Sahin;8;Germany;Health Care
+315;Joseph Lau;8;Hong Kong;Real-Estate
+316;Xu Shihui;8;China;Food & Beverage
+317;Li Ge;8;United States;Health Care
+318;Ned Johnson IV;8;United States;Finance
+319;Elizabeth Johnson;8;United States;Finance
+320;Alexander Otto;8;Germany;Real-Estate
+321;Ruan Xueping;8;China;Industrial
+322;Ruan Liping;8;China;Industrial
+323;Daniel Dines;8;Romania;Technology
+324;Carl Bennet;8;Sweden;Finance
+325;Izzy Englander;8;United States;Finance
+326;Magdalena Martullo;8;Switzerland;Industrial
+327;Laurent Dassault;8;France;Diversified
+328;Marie-Helene Habert-Dassault;8;France;Diversified
+329;Thierry Dassault;8;France;Diversified
+330;Ralph Lauren;8;United States;Consumer
+331;Richard Kinder;8;United States;Energy
+332;Kei Hoi Pang;8;China;Real-Estate
+333;Juan Beckmann Vidal ;8;Mexico;Food & Beverage
+334;Shahid Khan;8;United States;Consumer
+335;Yu Renrong;8;China;Technology
+336;Mat Ishbia;8;United States;Finance
+337;Rahel Blocher;8;Switzerland;Industrial
+338;Ludwig Merckle;8;Germany;Industrial
+339;Chen Jianhua;8;China;Industrial
+340;Frank Lowy;8;Australia;Real-Estate
+341;Nicky Oppenheimer;8;South Africa;Diversified
+342;David Thomson;8;Canada;Media & Telecom
+343;Taylor Thomson;8;Canada;Media & Telecom
+344;Peter Thomson;8;Canada;Media & Telecom
+345;Bob Rich;8;United States;Food & Beverage
+346;Leonid Fedun;8;Russia;Energy
+347;Nusli Wadia;8;India;Diversified
+348;Geoffrey Kwok;8;Hong Kong;Real-Estate
+349;Finn Rausing;8;Sweden;Services
+350;Kirsten Rausing;8;Sweden;Services
+351;George Soros;8;United States;Finance
+352;Steven Spielberg;8;United States;Entertainment
+353;Charles Cadogan;8;United Kingdom;Real-Estate
+354;Liu Hanyuan;8;China;Industrial
+355;Liz Mohn;8;Germany;Media & Telecom
+356;Ronda Stryker;8;United States;Health Care
+357;Yu Yong;7;China;Finance
+358;Chase Coleman;7;United States;Finance
+359;Andy Bechtolsheim;7;Germany;Technology
+360;Hong Ra-hee;7;Korea;Diversified
+361;Tammy Gustavson;7;United States;Services
+362;Lin Jianhua;7;China;Technology
+363;Martin Viessmann ;7;Germany;Industrial
+364;Frederik Paulsen;7;Sweden;Health Care
+365;Laurence Graff;7;United Kingdom;Consumer
+366;Takahisa Takahara;7;Japan;Consumer
+367;John Grayken;7;Ireland;Finance
+368;Gang Ye;7;Singapore;Technology
+369;Samuel Yin;7;Taiwan;Diversified
+370;Wang Laisheng;7;China;Industrial
+371;Sri Prakash Lohia;7;Indonesia;Industrial
+372;Axel Oberwelland;7;Germany;Food & Beverage
+373;Mohamed Al Jaber;7;Saudi Arabia;Retail
+374;Gwendolyn Sontheim Meyer;7;United States;Commodities
+375;Pauline Keinath;7;United States;Commodities
+376;Tom Gores;7;United States;Finance
+377;Hiroshi Mikitani;7;Japan;Retail
+378;Jian Jun;7;China;Consumer
+379;Teh Hong Piow;7;Malaysia;Finance
+380;Terry Pegula;7;United States;Energy
+381;Alexey Kuzmichev;7;Russia;Diversified
+382;John Sall;7;United States;Technology
+383;Antti Herlin;7;Finland;Industrial
+384;Chris Hohn;7;United Kingdom;Finance
+385;David Shaw;7;United States;Finance
+386;Nassef Sawiris;7;Egypt;Industrial
+387;Alain Merieux;7;France;Health Care
+388;Natie Kirsh;7;South Africa;Food & Beverage
+389;Kenneth Dart;7;Cayman Islands;Finance
+390;Horst Pudwill;7;Hong Kong;Consumer
+391;Shari Arison;7;Israel;Diversified
+392;Nancy Laurie;7;United States;Retail
+393;Wang Yusuo;7;China;Energy
+394;Tan Kim Choo;7;Singapore;Real-Estate
+395;Stef Wertheimer;7;Israel;Diversified
+396;Pankaj Patel;7;India;Health Care
+397;Kjeld Kirk Kristiansen;7;Denmark;Consumer
+398;Ray Hunt;7;United States;Energy
+399;Margaretta Taylor;7;United States;Media & Telecom
+400;James Cox Chambers;7;United States;Media & Telecom
+401;Katharine Rayner;7;United States;Media & Telecom
+402;Fredrik Lundberg;7;Sweden;Real-Estate
+403;Chu Mang Yee;7;China;Real-Estate
+405;Ernest Garcia III;7;United States;Consumer
+406;Bertil Hult;7;Sweden;Diversified
+407;Eric Smidt;7;United States;Retail
+408;Vincent Bollore;7;France;Diversified
+409;Joe Lewis;7;United Kingdom;Diversified
+410;Josh Harris;7;United States;Finance
+411;J K Irving;7;Canada;Commodities
+412;Ronald McAulay;7;Hong Kong;Energy
+413;Jean-Michel Besnier;7;France;Food & Beverage
+414;Randa Williams;7;United States;Energy
+415;Dannine Avara;7;United States;Energy
+416;Scott Duncan;7;United States;Energy
+417;Milane Frantz;7;United States;Energy
+418;Sofie Kirk Kristiansen;7;Denmark;Consumer
+419;Agnete Kirk Thinggaard;7;Denmark;Consumer
+420;Thomas Kirk Kristiansen;7;Denmark;Consumer
+421;Wang Laichun;7;China;Industrial
+422;Xavier Niel;7;France;Technology
+423;Lynn Schusterman;7;United States;Energy
+424;Lai Meisong;7;China;Services
+425;Tom Morris;7;United Kingdom;Retail
+426;Yasumitsu Shigeta;7;Japan;Media & Telecom
+427;K P Singh;7;India;Real-Estate
+428;Rahul Bajaj;7;India;Diversified
+429;Simon Reuben;7;United Kingdom;Diversified
+430;David Reuben;7;United Kingdom;Diversified
+431;Leaf Hua Li;6;China;Technology
+432;George Kaiser;6;United States;Energy
+433;Bom Kim;6;United States;Technology
+434;Andrey Guryev;6;Russia;Industrial
+435;Chung Mong-Koo;6;Korea;Industrial
+436;Jean-Pierre Cayard;6;France;Food & Beverage
+437;Peter Thiel;6;United States;Finance
+438;Jane Lauder;6;United States;Consumer
+439;Udo Tschira;6;Germany;Technology
+440;Harald Tschira;6;Germany;Technology
+441;Lv Xiang-yang;6;China;Consumer
+442;Bubba Cathy;6;United States;Food & Beverage
+443;Ivan Glasenberg;6;Australia;Commodities
+444;Dan Cathy;6;United States;Food & Beverage
+445;Andre Hoffmann;6;Switzerland;Health Care
+446;Philip Ng;6;Singapore;Real-Estate
+447;Petr Aven;6;Russia;Diversified
+448;Mark Shoen;6;United States;Services
+449;Robert Ng;6;Singapore;Real-Estate
+450;Tsai Eng-Meng;6;Taiwan;Food & Beverage
+451;Isaac Perlmutter;6;United States;Entertainment
+452;Linda Campbell;6;Canada;Media & Telecom
+453;Gaye Farncombe;6;Canada;Media & Telecom
+454;Michael Herz ;6;Germany;Consumer
+455;Olav Thon;6;Norway;Real-Estate
+456;Barry Lam;6;Taiwan;Technology
+457;Robert Rowling;6;United States;Energy
+458;Barry Diller;6;United States;Technology
+459;Wolfgang Herz ;6;Germany;Consumer
+460;Leonard Stern;6;United States;Real-Estate
+461;Wang Wenjing;6;China;Technology
+462;Manuel Villar;6;Philippines;Diversified
+463;Charles Butt ;6;United States;Retail
+464;Anthony Wood;6;United States;Technology
+465;Peter-Alexander Wacker ;6;Germany;Industrial
+466;Andreas Halvorsen;6;Norway;Finance
+467;Terry Gou;6;Taiwan;Industrial
+468;Robert Kraft;6;United States;Entertainment
+469;Ann Kroenke;6;United States;Retail
+470;Henry Samueli;6;United States;Technology
+471;Frits Goldschmeding;6;Netherlands;Retail
+472;Arthur Irving;6;Canada;Energy
+473;Andrey Kozitsyn;6;Russia;Industrial
+474;Vera Michalski-Hoffmann;6;Switzerland;Health Care
+475;Maja Hoffmann;6;Switzerland;Health Care
