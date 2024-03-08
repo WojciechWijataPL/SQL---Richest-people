@@ -1,5 +1,4 @@
-Hi 
-In this repository I want to show you my small, first project with SQL.
+Hi there!
+In this repository, I'm excited to showcase my first small project using SQL. I delved into the analysis of the world's wealthiest individuals, exploring their sources of income and the industries they're involved in. Along the way, I learned various functions, including case statements, join operations, and several others. 
 
-I analyze the richest people in the world.
-The report shows some interesting relationships, what industries they operate in and what industries they dominate over others.
+Stay tuned for an my journey  💰🌍🔍
